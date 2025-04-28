@@ -1,0 +1,10 @@
+{
+  // https://github.com/prettier/prettier-vscode?tab=readme-ov-file#default-formatter
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // https://github.com/prettier/prettier-vscode?tab=readme-ov-file#format-on-save
+  "editor.formatOnSave": true,
+
+  // Sync with prettier's setting
+  "editor.tabSize": 2
+}
