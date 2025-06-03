@@ -6,5 +6,8 @@
   "editor.formatOnSave": true,
 
   // Sync with prettier's setting
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+
+  // Use non-relative import module specifier
+  "typescript.preferences.importModuleSpecifier": "non-relative"
 }
