@@ -1,3 +1,7 @@
 export default function Layout({ children }: { children: React.ReactNode }) {
-  return <div className="prose">{children}</div>;
+  return (
+    <main id="skip-nav" className="prose">
+      {children}
+    </main>
+  );
 }
